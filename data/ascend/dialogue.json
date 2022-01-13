@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "c'etait sympa !",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "ouais. a bientot !",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "au revoir.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "boyfriend est venu vers la sortie mais la porte etait ferme a cle.",
+			"boxState": "normal",
+			"portrait": "narrator",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "il est donc revenu pour demander aux clones mais...",
+			"boxState": "normal",
+			"portrait": "narrator",
+			"speed": 0.08
+		},
+		{
+			"expression": "shocked",
+			"text": "C'EST LA CATASTROPHE !! NOUS SOMMES BLOQUE",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "nous allons faire quoi alors !!??",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.455
+		},
+		{
+			"expression": "talk",
+			"text": ".",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "je sais!",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "alors?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "je vais tout simplement chanter fort pour casser un mur!",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "tu es sur que ca va marcher?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "oui!",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "ok.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "j'espere que ca marcheras.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

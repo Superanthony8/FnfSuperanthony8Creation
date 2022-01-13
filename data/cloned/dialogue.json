@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "QUOI??!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.03
+		},
+		{
+			"expression": "shocked",
+			"text": "pourquoi il y a des clones de moi??!!",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.03
+		},
+		{
+			"expression": "talk",
+			"text": "on ne sais pas.",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "mais ce n'est pas normal!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "par contre...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.08
+		},
+		{
+			"expression": "pissed",
+			"text": "je voudrait bien faire un rap battle avec vous :)",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "faire un rap battle avec des clones, ce serait cool ¨!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "nous acceptons le defi¨¨!",
+			"boxState": "normal",
+			"portrait": "bf-opponent",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "c'est parti ¨!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

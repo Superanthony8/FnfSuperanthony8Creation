@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ben idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ben right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ben left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ben down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-25
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ben up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben",
+	"position": [
+		130,
+		310
+	],
+	"healthicon": "ben",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		215,
+		75
+	],
+	"camera_position": [
+		-100,
+		-190
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

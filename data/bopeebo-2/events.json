@@ -1,0 +1,180 @@
+{
+	"song": {
+		"speed": 4.2,
+		"stage": "stage",
+		"player1": "bf-gmod",
+		"player2": "rztuztuerzwio432543",
+		"player3": null,
+		"events": [
+			[
+				20100,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				20700,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				21300,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				21600,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				21900,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				22200,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				22800,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				23100,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				23400,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				23700,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				24300,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			],
+			[
+				24600,
+				[
+					[
+						"Screen Shake",
+						"4.7",
+						"1,0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-none",
+		"bpm": 150,
+		"mania": 3,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Bopeebo 2"
+	}
+}

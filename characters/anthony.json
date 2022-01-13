@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "anthony left"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "anthony down"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "anthony up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "anthony right"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "anthony idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anthony",
+	"position": [
+		-20,
+		30
+	],
+	"healthicon": "anthony",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		255,
+		37
+	],
+	"camera_position": [
+		-100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

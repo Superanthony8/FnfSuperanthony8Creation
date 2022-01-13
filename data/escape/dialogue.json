@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WOW! CA A MARCHE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-opponent",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Oui."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Avant de rentrer chez moi, je voudrais faire un dernier Rap Battle."
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf-opponent",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ok, si tu veux :)"
+		}
+	]
+}
